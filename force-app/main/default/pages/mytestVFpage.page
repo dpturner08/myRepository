@@ -1,0 +1,4 @@
+<apex:page standardController="CovidReport__c">
+    <c:mytestVFComp >
+    </c:mytestVFComp>
+</apex:page>

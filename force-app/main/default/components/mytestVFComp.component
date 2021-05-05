@@ -1,0 +1,7 @@
+<apex:component >
+   
+    <apex:includeScript value="{!$Resource.mytestJS}"/>
+    <apex:form >
+    <apex:commandButton title="yes" onclick="HelloWorld()"/>
+        </apex:form>
+</apex:component>
